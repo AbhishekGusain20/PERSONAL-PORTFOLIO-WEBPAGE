@@ -34,5 +34,5 @@ The project is hosted on GitHub and can be accessed or cloned directly.
 
 <img width="1919" height="862" alt="Image" src="https://github.com/user-attachments/assets/b0455467-199d-46fe-837a-06cdc0969f50" />
 
-
+<img width="1641" height="876" alt="Image" src="https://github.com/user-attachments/assets/df3c1be8-dc1d-4221-a034-158b4f2bfca5" />
 
