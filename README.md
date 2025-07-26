@@ -32,3 +32,7 @@ The project is hosted on GitHub and can be accessed or cloned directly.
 
 #output
 
+<img width="1919" height="862" alt="Image" src="https://github.com/user-attachments/assets/b0455467-199d-46fe-837a-06cdc0969f50" />
+
+<img width="1919" height="862" alt="Image" src="https://github.com/user-attachments/assets/f3261f26-46e2-46e3-b37e-8d81bd2719bb" />
+
